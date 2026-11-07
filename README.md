@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="1000050164" src="https://github.com/user-attachments/assets/bf166c94-96c5-4f6f-a4ab-9e9658ebf81e" />
 # Modern Digital Clock
 
 A sleek, minimalist **Digital Clock web application** featuring a modern black and white theme. The project displays real-time hours, minutes, and seconds, along with the full local date.
